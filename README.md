@@ -78,7 +78,7 @@ Ubuntu Linux VM running in Microsoft Hyper-V generated authentication and system
 
 ### SOC Dashboard Overview
 
-(https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/dashboard-overview.png?raw=true)
+[(https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/dashboard-overview.png?raw=true)](https://github.com/TanyaSY1012/SOC--Home-Lab/blob/f627269415f28400a5a74bf17a0aec2a0370c25e/screenshots/dashboard-overview.png)
 
 
 ### Failed Password Detection

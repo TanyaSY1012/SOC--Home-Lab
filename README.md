@@ -83,7 +83,7 @@ Ubuntu Linux VM running in Microsoft Hyper-V generated authentication and system
 
 ### Failed Password Detection
 
-PLACEHOLDER
+![(https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/failed-password-detection.png?raw=true)
 
 ### Top Log Sources
 

@@ -87,7 +87,7 @@ Ubuntu Linux VM running in Microsoft Hyper-V generated authentication and system
 
 ### Top Log Sources
 
-![(https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/top-log-sources.png?raw=true)
+![(https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/top-log-sources.png?raw=true)](https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/top-log-sources.png?raw=true)
 
 ### Sudo Activity Monitoring
 

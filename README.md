@@ -91,4 +91,4 @@ Ubuntu Linux VM running in Microsoft Hyper-V generated authentication and system
 
 ### Sudo Activity Monitoring
 
-PLACEHOLDER
+![https://github.com/TanyaSY1012/SOC--Home-Lab/blob/main/screenshots/sudo-activity.png?raw=true)
